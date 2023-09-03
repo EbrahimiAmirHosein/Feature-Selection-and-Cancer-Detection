@@ -15,4 +15,4 @@ In this project, I leveraged feature selection techniques to extract the most re
 
 The Figure below illustrates how I could distinguish between three types of classes:
 
-<img src="https://github.com/EbrahimiAmirHosein/Feature-Selection-and-Cancer-Detection/main/Results.png">
+<img src="https://github.com/EbrahimiAmirHosein/Feature-Selection-and-Cancer-Detection/blob/main/Results.png">
